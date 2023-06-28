@@ -1,2 +1,2 @@
 # Python_files
-Sample
+Sample for git repository
